@@ -13,7 +13,7 @@ This repository contains a small command-line program that implements the provid
 
 > Below is a pseudocode for a more complex algorithm. Your task is to convert it into a working program in any programming language of your choice. The program should perform the exact function described in the pseudocode.
 
-Pseudocode (paraphrased):
+Pseudocode:
 
 ```text
 FUNCTION sortAndFindMedian(numbers)
